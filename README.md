@@ -11,7 +11,7 @@
 
 Before starting, make sure you have:
 - ✅ Python 3.8-3.10 installed
-- ✅ `best.pt` model file (from Phase 1)
+- ✅ `best.pt` model file 
 - ✅ Sample images or videos for testing
 
 ---
